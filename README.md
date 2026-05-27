@@ -8,11 +8,11 @@ Knowledge is compiled once and kept current — not re-derived at query time. Cl
 
 ## What's in here
 
-### RepresentAI source material
-Two PDFs from the RepresentAI Financial Services Group, used as source material for the wiki:
+### Source material
+Two PDFs used as source material for the wiki:
 
-- `represent-ai-howto-guide.pdf`
-- `represent-ai-second-brain.pdf`
+- `ai-automation-howto-guide.pdf`
+- `ai-second-brain-guide.pdf`
 
 ### Claude Code slash commands
 Four commands that maintain the wiki when you open this folder in Claude Code:
