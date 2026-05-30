@@ -9,10 +9,9 @@ Knowledge is compiled once and kept current — not re-derived at query time. Cl
 ## What's in here
 
 ### Source material
-Two PDFs used as source material for the wiki:
+A how-to guide used as source material for the wiki:
 
 - `ai-automation-howto-guide.pdf`
-- `ai-second-brain-guide.pdf`
 
 ### Claude Code slash commands
 Four commands that maintain the wiki when you open this folder in Claude Code:

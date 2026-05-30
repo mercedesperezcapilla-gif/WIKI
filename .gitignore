@@ -1,0 +1,11 @@
+# This is a personal AI wiki / vault.
+# Ignore EVERYTHING by default so personal context, sources, and generated
+# wiki pages can never be committed by accident. Only the publishable
+# scaffolding below is allowed to be tracked.
+/*
+
+# Explicitly allow the shareable pieces:
+!/.gitignore
+!/README.md
+!/.claude/
+!/ai-automation-howto-guide.pdf
